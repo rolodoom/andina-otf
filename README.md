@@ -1,2 +1,2 @@
 # andina-ttf
-True type font with music symbols for Andean Colombian Instruments
+True type font with music symbols for Colombian plucked string instruments
